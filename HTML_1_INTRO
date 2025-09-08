@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Demo Page</title>
+    
+    <head>
+        <h1>MY INTRODUCTION<hr></h1>
+    </head>
+    <body>
+        <p>Hey there! I'm Aryan, currently pursuing a BTech with specialization in 
+        Artificial Intelligence and Machine Learning. I aim at combining strong coding fundamentals 
+        with creative problem-solving to take up challenges in tech.<br>
+    To the table, I bring 2 years' of hands-on experience each in Java, Python and MySQL, having built a solid foundation in 
+    logical and algorithmic thinking through school framework, courses, projects and numerous coding exercises.<br>
+Alongside these languages, I have explored JavaScript and built some projects, aimed at pushing my skills further down the tech path. 
+Driven by a genuine interest in the field of technology, I hope to someday create a machine that doesn't just solve complex problems, but also figures out why code chooses to misbehave sometimes.
+If you're open to collaborate, exchange ideas, or just connect with someone enthusiastic about tech and more, feel free to reach out. </p>
+    </body>
+</html>
